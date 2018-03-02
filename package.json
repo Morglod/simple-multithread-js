@@ -1,0 +1,12 @@
+{
+  "name": "simple-multithread",
+  "version": "0.0.1",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "main": "lib/index.js",
+  "author": "morglod",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
